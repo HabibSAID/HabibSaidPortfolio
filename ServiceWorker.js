@@ -1,9 +1,9 @@
 const cacheName = "HS-HabibSaid-Portfolio-1";
 const contentToCache = [
     "Build/Builds.loader.js",
-    "Build/Builds.framework.js.br",
-    "Build/Builds.data.br",
-    "Build/Builds.wasm.br",
+    "Build/Builds.framework.js",
+    "Build/Builds.data",
+    "Build/Builds.wasm",
     "TemplateData/style.css"
 
 ];
